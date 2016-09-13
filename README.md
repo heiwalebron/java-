@@ -3,7 +3,9 @@
 
 抽象方法只写声明就好了
 如：
+```
 abstract class one{//含有抽象方法的类十一个抽象类
  abstract void print();//抽象方法
  void printmain(){};//具体方法
 }
+```
