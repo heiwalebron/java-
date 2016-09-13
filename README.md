@@ -9,6 +9,7 @@ abstract class one{//含有抽象方法的类十一个抽象类
  void printmain(){};//具体方法
 }
 ```
+
 2. 在接口中的静态方法需要有方法体
 
 ```
